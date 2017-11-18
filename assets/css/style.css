@@ -1,0 +1,31 @@
+body {
+	font-family: 'Montserrat', sans-serif !important;
+	background-color: #CCDFCB !important;
+}
+p, h1, h2 {
+	color: #CCDFCB !important;
+}
+
+.jumbotron {
+	/* Override jumbotron background color */
+	background-color: #414141 !important;
+}
+.header {
+	color: #000;
+	text-align: center;
+}
+
+/* Train Schedule */
+.schedule-header {
+	background-color: #056571 !important;
+}
+
+/* Form Field */
+.form-header {
+	background-color: #FF6A5C !important;
+	color: #000;
+}
+
+.button-add {
+	background-color: #FF6A5C;
+}
